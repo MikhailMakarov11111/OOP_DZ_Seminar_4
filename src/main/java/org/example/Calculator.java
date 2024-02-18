@@ -21,7 +21,7 @@ public class Calculator {
         return s;
     }
 
-    public double сomposition(List<? extends Number> numbers){
+    public double composition(List<? extends Number> numbers){
         double com = 1;
 
         for (Number number : numbers) {
